@@ -39,7 +39,5 @@ siege -c 50 -t 1 testURL
 
 ### Reference:
 [how to use siege](http://jingyan.baidu.com/article/851fbc37c6792f3e1f15abc4.html?st=2&os=0&bd_page_type=1&net_type=1)
-
 [siege home](https://www.joedog.org/siege-home/)
-
 [siege code](https://github.com/JoeDog/siege)
